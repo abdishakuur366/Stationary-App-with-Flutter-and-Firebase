@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404454888428",
+    "project_id": "food-delivery-ece42",
+    "storage_bucket": "food-delivery-ece42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404454888428:android:bdc4495510123acf39a6c9",
+        "android_client_info": {
+          "package_name": "com.aedbel.fooddelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjA3tEUFCAb9tsAKefMQDpDvqKY1vTHR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404454888428:android:297750c7b06aee8239a6c9",
+        "android_client_info": {
+          "package_name": "com.example.stationary_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjA3tEUFCAb9tsAKefMQDpDvqKY1vTHR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
